@@ -1,5 +1,5 @@
 // This class is provided AS-IS, and is correct for the minimum requirements of project 2.
-
+// This class was provided by the professor
 public class BaseCipher {
     private String cipherName;
 
